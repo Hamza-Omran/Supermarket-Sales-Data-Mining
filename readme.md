@@ -1,5 +1,8 @@
 # Supermarket Sales Data Mining and Analytics Project - 2024
 
+## Academic Context
+This project was developed as part of the "Data Mining and Analytics" course (2024).
+
 ## Team Members
 
 * Hamza Hussain Omran
