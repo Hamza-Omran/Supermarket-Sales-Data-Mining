@@ -1,4 +1,4 @@
-# Supermarket Sales Data Mining and Analytics Project - 2025
+# Supermarket Sales Data Mining and Analytics Project - 2024
 
 ## Team Members
 
