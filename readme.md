@@ -2,11 +2,11 @@
 
 ## Team Members
 
+* Hamza Hussain Omran
 * Ahmed Khalifa Abdulraouf
 * Moaz Moustafa Abd-Elhamid
 * Abdurhman Hesham Ragab
 * Kareem Mohamed Samy Aboshady
-* Hamza Hussain Omran
 
 ## Overview
 
